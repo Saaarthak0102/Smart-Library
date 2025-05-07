@@ -124,10 +124,4 @@ The system uses several C++ features and STL containers:
 - Use the sample IDs for testing (B001, M001, etc.)
 - Check error messages for guidance
 
-## License
 
-This software is available for educational purposes.
-
-## Author
-
-Smart Library Management System Team
